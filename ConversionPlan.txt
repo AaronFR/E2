@@ -1,0 +1,7 @@
+Convertion to Java
+
+Should make use of Spring especially spring boot and possibly MVC. Theres nothing else for that except for continuing with the course on these topics.
+
+However there seems to be a lot of room to split classes up and Java's ability to have multiple dependencies per class can help a lot.
+Key Ideas
+- Seperate World class: SOLID, the World class should only store properties on the concept of the 'world' in the game and the rule mechanics it has should be seperated out

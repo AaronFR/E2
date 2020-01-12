@@ -1,0 +1,1 @@
+TradeGame is pretty descriptively a trading game. The gameplay loop is go to a town, buy/sell, build up cash, build factories.
